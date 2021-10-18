@@ -1,0 +1,44 @@
+[
+    {
+        "Id": "1",
+        "Name": "León",
+        "NameCien": "Panthera leo",
+        "Familia": "Felinos",
+        "Habitat": "Sabana"
+    },
+    {
+        "Id": "2",
+        "Name": "Búfalo",
+        "NameCien": "Bubalus bubalis",
+        "Familia": "Bovidae",
+        "Habitat": "Praderas"
+    },
+    {
+        "Id": "3",
+        "Name": "Gorila",
+        "NameCien": "Gorilla",
+        "Familia": "Homínidos",
+        "Habitat": "Bosques tropicales"
+    },
+    {
+        "Id": "4",
+        "Name": "Tucán",
+        "NameCien": "Ramphastidae",
+        "Familia": "Ramphastidae",
+        "Habitat": "Bosques Humedos"
+    },
+    {
+        "Id": "5",
+        "Name": "Foca",
+        "NameCien": "Phocidae",
+        "Familia": "Phocidae",
+        "Habitat": "Costas"
+    },
+    {
+        "Id": "6",
+        "Name": "Zorro Rojo",
+        "NameCien": "Vulpes vulpes",
+        "Familia": "Cánidos",
+        "Habitat": "Tundra"
+    }
+]
